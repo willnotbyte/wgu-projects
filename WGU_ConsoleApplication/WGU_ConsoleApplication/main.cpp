@@ -5,9 +5,9 @@
 
 int main() {
 
-	cout << "Class Name" << std::endl;
+	cout << "Scripting and Programming - Applications - C867" << std::endl;
 	cout << "Language used: C++" << std::endl;
-	cout << "ID: NULL" << std::endl;
+	cout << "WGU ID: NULL" << std::endl;
 	cout << "Name: John Doe" << std::endl;
 	cout << "\n";
 
